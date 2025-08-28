@@ -20,7 +20,7 @@ I'm a passionate **Frontend Developer in training** with experience in **HTML, C
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-## Featured Projects 💻
+## Current Projects 💻
 
 ### [StayEase – Airbnb Clone](project_1_link)
 
