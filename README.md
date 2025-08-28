@@ -7,7 +7,7 @@ I'm a passionate **Frontend Developer in training** with experience in **HTML, C
 
 - 🌱 Currently learning: **React, Node.js, and Backend fundamentals**
 - 🔭 Working on: **StayEase – an Airbnb Clone project**
-- 🌍 Languages: **HTML, CSS, JavaScript (programming)** | **English, Twi (human languages)**
+- 🌍 Languages: **HTML, CSS, JavaScript (programming)** 
 - 📫 How to reach me: **anyomiprince27@gmail.com**
 - ⚡ Fun fact: **I enjoy turning real-world ideas into digital projects that solve problems and improve user experience.**
 
@@ -34,7 +34,6 @@ You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-- [**Portfolio/Website**](https://princeanyomiportfolio.netlify.app/)
 - [**LinkedIn**](https://www.linkedin.com/in/prince-anyomi-289418317/)
 - [**Email**](mailto:anyomiprince27@gmail.com)
 
